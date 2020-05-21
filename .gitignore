@@ -1,0 +1,14 @@
+.bundle/
+log/*.log
+pkg/
+spec/dummy/db/*.sqlite3
+spec/dummy/db/*.sqlite3-journal
+spec/dummy/log/*.log
+spec/dummy/tmp/
+/vendor/bundle/
+.DS_Store
+*.gem
+*.rbc
+Gemfile.lock
+.idea
+scaffoldable.iml
