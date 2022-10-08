@@ -17,7 +17,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem specific_install git@github.com:ntnn-me/scaffoldable.git scaffoldable
+$ gem specific_install git@github.com:daigoishii/scaffoldable.git scaffoldable
 ```
 
 ## Usage
