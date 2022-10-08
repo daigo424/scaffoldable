@@ -30,7 +30,7 @@ class PostsController < ApplicationController
 end
 ```
 
-カスタマイズ項目は以下（今後増えていきます）
+カスタマイズ項目は以下。
 
 ※ 以下のモデルは、 https://github.com/makandra/active_type を使っています。
 
