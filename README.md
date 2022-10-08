@@ -7,7 +7,7 @@ index, show, create, update, new, edit, destroyを定義します。
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'scaffoldable', git: 'git@github.com:ntnn-me/scaffoldable.git'
+gem 'scaffoldable', git: 'git@github.com:daigoishii/scaffoldable.git'
 ```
 
 And then execute:
